@@ -1,10 +1,6 @@
 {
     "name": "mef-data-api",
     "version": "1.0.0",
-    "scripts": {
-      "start": "node index.js",
-      "dev": "nodemon index.js"
-    },
     "keywords": ["mef", "api", "excel", "cui"],
     "author": "",
     "license": "MIT",
